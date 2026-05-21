@@ -198,10 +198,9 @@ Outside of coding, I value consistency, discipline, and continuous learning over
 <br>
 
 
-
 <h2 align="center"> 
  <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026"> 
-  <em>✨ Click any badge to view project</em>
+  <em>👉 Click any badge to view project</em>
  </a>
 </h2>
 
