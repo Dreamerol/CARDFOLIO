@@ -196,13 +196,29 @@ width="320" height="220" style="object-fit:cover;border-radius:12px; display:blo
 </div>
 
 
-<div align="center" style="max-width:800px; margin:auto; text-align:center;">
   
-<h2>𝗗𝗿𝗮𝘄𝗻 𝘁𝗼 𝘂𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱 𝗵𝗼𝘄 𝘀𝘆𝘀𝘁𝗲𝗺𝘀 𝘄𝗼𝗿𝗸 𝗯𝗲𝗻𝗲𝗮𝘁𝗵 𝘁𝗵𝗲 𝘀𝘂𝗿𝗳𝗮𝗰𝗲: 𝗻𝗼𝘁 𝗷𝘂𝘀𝘁 𝘂𝘀𝗶𝗻𝗴 𝘁𝗵𝗲𝗺, 𝗯𝘂𝘁 𝗳𝗲𝗲𝗹𝗶𝗻𝗴 𝗵𝗼𝘄 𝘁𝗵𝗲𝘆 𝗳𝗶𝘁 𝘁𝗼𝗴𝗲𝘁𝗵𝗲𝗿. Over time, this became a steady craft: turning abstract problems into simple solutions where structure carries the weight, almost in quiet silence.
+<div align="center" style="max-width:800px; margin:auto; text-align:center;">
+
+<h2>
+𝗗𝗿𝗮𝘄𝗻 𝘁𝗼 𝘂𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱 𝗵𝗼𝘄 𝘀𝘆𝘀𝘁𝗲𝗺𝘀 𝗲𝗺𝗲𝗿𝗴𝗲 𝗯𝗲𝗻𝗲𝗮𝘁𝗵 𝘁𝗵𝗲 𝘀𝘂𝗿𝗳𝗮𝗰𝗲 — not just to use them, but to see the structure inside them.
 
 <hr>
 
-Outside of coding, there is focus on calm consistency, discipline, and continuous improvement. The current path is Software Engineering, with strong interest in systems, algorithms, and machine learning. Think deeply. Move with intent.</a> </h2> </div>
+A steady shift toward turning abstract problems into simple, reliable systems where logic quietly carries complexity.
+
+<hr>
+
+Outside of coding, there is a focus on calm consistency, disciplined execution, and continuous improvement.
+
+The path is Software Engineering, with focus on systems, algorithms, and machine learning.
+
+<br><br>
+
+Think deeply. Build precisely. Move with intent.
+
+</h2>
+
+</div>
 
 
 <br>
