@@ -187,7 +187,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px; display:blo
 
 ## <a href="https://github.com/Dreamerol/RESUME-03-2026" target="_blank">🟢 𝗗𝗔𝗧𝗔 & 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥</a>
 
-## Python • SQL • Algorithms • Backend Engineering
+## Python • SQL • Data Analysis • Machine Learning
 
 ## ∫ data → systems ✨
 
