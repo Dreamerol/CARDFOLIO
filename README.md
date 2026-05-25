@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>🟢 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝗖𝗔𝗥𝗗𝗦</h1>
+<h1>🧩 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝗖𝗔𝗥𝗗𝗦</h1>
 
 </div>
 
@@ -95,7 +95,7 @@ Think deeply. Build with intent.
 
 <div align="center">
 
-## 🟢 <a href="https://github.com/Dreamerol">𝗦𝗘𝗟𝗘𝗖𝗧𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 𝟮𝟬𝟮𝟲</a>
+##  <a href="https://github.com/Dreamerol">🧩 𝗦𝗘𝗟𝗘𝗖𝗧𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 𝟮𝟬𝟮𝟲</a>
 
 </div>
 
