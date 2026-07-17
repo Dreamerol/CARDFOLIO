@@ -104,30 +104,28 @@
 
 <br>
 
-  
+
+
+
+
 <div align="center" style="max-width:800px; margin:auto; text-align:center;">
 
 <h2>
-  
+
 Interested in how systems emerge from simplicity — where structure, logic and limitations turn abstract problems into working systems.
 
-<br>
-
-<h2 align="center">
+<br><br>
 
 Focused on calm consistency, disciplined work and continuous improvement across systems, algorithms and machine learning.
 
-<br>
+<br><br>
 
 Think deeply. Build with intent.
-
-
-</h2>
-
 
 </h2>
 
 </div>
+
 
 
 <br>
