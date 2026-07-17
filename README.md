@@ -116,7 +116,7 @@ Interested in how systems emerge from simplicity — where structure, logic and 
 
 <br>
 
-Focused on calm consistency, disciplined work and continuous improvement across systems, algorithms and machine learning. Think deeply. Build with intent.
+Focused on calm consistency, disciplined work and continuous improvement across systems, algorithms and machine learning.
 
 <br>
 
