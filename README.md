@@ -16,6 +16,25 @@
 
 <br>
 
+
+<div align="center">
+
+<a href="https://github.com/Dreamerol">
+
+  <img
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA%20123.png"
+    alt="Portfolio Cards"
+    width="100%"/>
+
+</a>
+
+</div>
+
+
+
+
+
+
 <div align="center">
 
 <a href="https://github.com/Dreamerol">
@@ -28,6 +47,9 @@
 </a>
 
 </div>
+
+
+
 
 <div align="center">
 
