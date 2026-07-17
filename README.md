@@ -14,7 +14,10 @@
 
 
 
+
 <br>
+
+
 
 
 <div align="center">
@@ -30,23 +33,6 @@
 
 </div>
 
-
-
-
-
-
-<div align="center">
-
-<a href="https://github.com/Dreamerol">
-
-  <img
-    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZZZZPROFIT7777.jpg?raw=true"
-    alt="Portfolio Cards"
-    width="100%"/>
-
-</a>
-
-</div>
 
 
 
