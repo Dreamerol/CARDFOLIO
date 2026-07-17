@@ -114,15 +114,16 @@
 
 Interested in how systems emerge from simplicity — where structure, logic and limitations turn abstract problems into working systems.
 
-<br><br>
+<br>
 
 Focused on calm consistency, disciplined work and continuous improvement across systems, algorithms and machine learning.
 
-<br><br>
+<br>
 
 Think deeply. Build with intent.
 
 </h2>
+
 
 </div>
 
