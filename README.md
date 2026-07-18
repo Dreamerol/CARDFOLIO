@@ -25,7 +25,7 @@
 <a href="https://github.com/Dreamerol">
 
   <img
-    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA%20123.png"
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA%20SWE.png"
     alt="Portfolio Cards"
     width="100%"/>
 
