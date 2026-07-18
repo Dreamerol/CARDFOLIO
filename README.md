@@ -120,7 +120,8 @@ Focused on calm consistency, disciplined work and continuous improvement across 
 
 <br>
 
-Think deeply. Build with intent.
+Think deeply. Build with intent. Keep improving. 
+
 
 </h2>
 
