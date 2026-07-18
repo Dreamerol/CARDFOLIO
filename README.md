@@ -398,11 +398,6 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 
 
 
----
-
-
-
-
 
 
 
@@ -432,6 +427,7 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 
 
 
+---
 
 
 
