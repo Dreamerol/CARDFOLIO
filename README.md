@@ -405,7 +405,7 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
     <img
       src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_77.PNG"
       width="100%"
-      alt="Mihaela Koseva (Михаела Косева) - Software Engineer, AI Engineer, Applied ML"
+     alt="Mihaela Koseva, Михаела Косева - Software Engineer, AI Engineer, Applied Machine Learning"
     />
   </a>
 </div>
