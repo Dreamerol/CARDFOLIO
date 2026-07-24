@@ -23,7 +23,7 @@
 
   <img
     src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA%20SWE.png"
-    alt="Mihaela Koseva - Software Engineer, AI Engineer, Portfolio"
+    alt="Mihaela Koseva, Михаела Косева - Software Engineer, AI Engineer, Applied Machine Learning, Portfolio"
     width="100%"/>
 
 </a>
