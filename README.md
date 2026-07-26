@@ -92,7 +92,7 @@
 
 <div align="center">
 
-## <a href="https://github.com/Dreamerol/RESUME" target="_blank">✅ 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 ∫ 𝗗𝗔𝗧𝗔 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟</a>
+# <a href="https://github.com/Dreamerol/RESUME" target="_blank">✅ 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 ∫ 𝗗𝗔𝗧𝗔 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟</a>
 
 ## <a href="https://www.uni-sofia.bg" target="_blank"><b>𝗙𝗠𝗜, 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 “𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶”</b></a>
 
@@ -141,7 +141,7 @@ Think deeply. Build with intent. Keep improving.
 
 <div align="center">
 
-## <a href="https://github.com/Dreamerol">🧩 𝗖𝗢𝗠𝗣𝗨𝗧𝗘𝗥 𝗦𝗖𝗜𝗘𝗡𝗖𝗘 • 𝗙𝗨𝗡𝗗𝗔𝗠𝗘𝗡𝗧𝗔𝗟𝗦</a>
+# <a href="https://github.com/Dreamerol">🧩 𝗖𝗢𝗠𝗣𝗨𝗧𝗘𝗥 𝗦𝗖𝗜𝗘𝗡𝗖𝗘 • 𝗙𝗨𝗡𝗗𝗔𝗠𝗘𝗡𝗧𝗔𝗟𝗦</a>
 
 ## 𝗗𝗮𝘁𝗮 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲𝘀 & 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺𝘀 • 𝗢𝗢𝗣 • 𝗦𝗤𝗟 • 𝗟𝗶𝗻𝘂𝘅
 
