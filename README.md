@@ -99,7 +99,7 @@
 
 # 𝗣𝘆𝘁𝗵𝗼𝗻 • 𝗦𝗤𝗟 • 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁
 
-# ∫ Data → Systems → Insights ✨
+# ∫ Data → Systems → Insights
 
 </div>
 
