@@ -84,40 +84,6 @@
 
 
 
----
-
-
-<div align="center">
-
-<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:8px;">
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-[![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](#)
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)
-[![Clojure](https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white)](#)
-[![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white)](#)
-[![Data Analysis](https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white)](#)
-[![Algorithms](https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge)](#)
-[![OOP](https://img.shields.io/badge/OOP-32CD32?style=for-the-badge)](#)
-[![Backend](https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge)](#)
-[![APIs](https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge)](#)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
-[![Mathematical Modeling](https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge)](#)
-
-
-</div>
-
-
----
-
-
-
-
-
-
-
 
 
 
