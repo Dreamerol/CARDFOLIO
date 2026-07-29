@@ -62,9 +62,6 @@
 
 
 
-<br>
-
-
 
 
 <div align="center">
@@ -138,6 +135,10 @@ Think deeply. Build with intent. Keep improving.
 
 
 
+
+
+
+<br>
 <br>
 
 
