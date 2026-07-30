@@ -25,7 +25,7 @@
 
   <img
     src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA%20SWE.png"
-    alt="Mihaela Koseva, Михаела Косева - AI Engineer, Software Engineer, Applied Machine Learning, Data Science Portfolio"
+    alt="Mihaela Koseva, Михаела Косева - Software Engineer, AI Engineer, Machine Learning, Data Science, Python Developer, Backend Development, C++, Java, SQL"
     width="100%"/>
 
 </a>
@@ -70,7 +70,7 @@
   <img 
     src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECH%20STACK%20333.png"
     width="100%"
-    alt="Mihaela Koseva, Михаела Косева - Software Engineer, AI Engineer, Applied Machine Learning"
+    alt="Mihaela Koseva, Михаела Косева - Software Engineer, AI Engineer, Machine Learning, Data Science, Python Developer, Backend Development, C++, Java, SQL"
   />
 </a>
 
@@ -320,7 +320,7 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
     <img
       src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_77.PNG"
       width="100%"
-      alt="Mihaela Koseva, Михаела Косева - AI Engineer, Software Engineer, Applied Machine Learning, Data Science Portfolio"
+      alt="Mihaela Koseva, Михаела Косева - Software Engineer, AI Engineer, Machine Learning, Data Science, Python Developer, Backend Development, C++, Java, SQL"
     />
   </a>
 </div>
