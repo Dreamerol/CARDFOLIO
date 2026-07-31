@@ -70,7 +70,7 @@
   <img 
     src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECH%20STACK%20333.png"
     width="100%"
-    alt="Mihaela Koseva, Михаела Косева - Software Engineer, AI Engineer, Machine Learning, Data Science, Python Developer, Backend Development, C++, Java, SQL"
+    alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
   />
 </a>
 
@@ -343,7 +343,9 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
     <img
       src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_77.PNG"
       width="100%"
-      alt="Mihaela Koseva, Михаела Косева - Software Engineer, AI Engineer, Machine Learning, Data Science, Python Developer, Backend Development, C++, Java, SQL"
+      alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, 
+      AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, 
+      Python, C++, Java, SQL"
     />
   </a>
 </div>
@@ -374,7 +376,7 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
 <td>
 <a href="https://www.linkedin.com/in/mihaela-koseva-software-engineer" target="_blank">
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20LINKEDIN.png" height="130"
-alt="Mihaela Koseva, Михаела Косева - Software Engineer, AI Engineer, Machine Learning, Data Science, Python Developer, Backend Development, C++, Java, SQL">
+alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
 </a>
 </td>
 
@@ -382,7 +384,7 @@ alt="Mihaela Koseva, Михаела Косева - Software Engineer, AI Enginee
 <td>
 <a href="https://github.com/Dreamerol" target="_blank">
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20GITHUB.png" height="130"
-alt="Mihaela Koseva, Михаела Косева - Software Engineer, AI Engineer, Machine Learning, Data Science, Python Developer, Backend Development, C++, Java, SQL">
+alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
 </a>
 </td>
 
@@ -390,7 +392,7 @@ alt="Mihaela Koseva, Михаела Косева - Software Engineer, AI Enginee
 <td>
 <a href="https://github.com/Dreamerol/PORTFOLIO" target="_blank">
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20PORTFOLIO.png" height="130"
-alt="Mihaela Koseva, Михаела Косева - Software Engineer, AI Engineer, Machine Learning, Data Science, Python Developer, Backend Development, C++, Java, SQL">
+alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
 </a>
 </td>
 
@@ -398,7 +400,7 @@ alt="Mihaela Koseva, Михаела Косева - Software Engineer, AI Enginee
 <td>
 <a href="https://github.com/Dreamerol/ALLSTATS" target="_blank">
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20STATS.png" height="130"
-alt="Mihaela Koseva, Михаела Косева - Software Engineer, AI Engineer, Machine Learning, Data Science, Python Developer, Backend Development, C++, Java, SQL">
+alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
 </a>
 </td>
 
@@ -406,7 +408,7 @@ alt="Mihaela Koseva, Михаела Косева - Software Engineer, AI Enginee
 <td>
 <a href="https://github.com/Dreamerol/RESUME" target="_blank">
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20RESUME.png" height="130"
-alt="Mihaela Koseva, Михаела Косева - Software Engineer, AI Engineer, Machine Learning, Data Science, Python Developer, Backend Development, C++, Java, SQL">
+alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
 </a>
 </td>
 
