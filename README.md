@@ -375,13 +375,17 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
 
 
 <div align="center">
-  <a href="https://github.com/Dreamerol/PORTFOLIO" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_77.PNG"
-      width="100%"
-      alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
-    />
-  </a>
+
+<a href="https://github.com/Dreamerol">
+  <img 
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PORTFOLIO_1.png"
+    width="100%"
+    loading="lazy"
+    alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
+    style="border-radius:18px;" 
+  />
+</a>
+
 </div>
 
 
