@@ -125,7 +125,7 @@ Focused on calm consistency, disciplined work and continuous improvement across 
 
 
 
-Think deeply. Build with intent. Keep improving. 
+Think deeply. Build with intent.
 
 
 </h2>
