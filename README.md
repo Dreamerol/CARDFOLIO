@@ -4,14 +4,10 @@
 
 
 
-<div align="center">
 
-<h1>🧩 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 • 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝗖𝗔𝗥𝗗𝗦</h1>
-
-</div>
-
-
-
+<h1 align="center">
+  🧩 <a href="https://github.com/Dreamerol/RESUME">𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 • 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝗖𝗔𝗥𝗗𝗦</a>
+</h1>
 
 
 
