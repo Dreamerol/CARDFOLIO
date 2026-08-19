@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<a href="https://github.com/Dreamerol/RESUME">
+<a href="https://github.com/Dreamerol/PORTFOLIO">
 
   <img
     src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA-CARDFOLIO.png"
