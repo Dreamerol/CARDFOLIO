@@ -18,7 +18,9 @@
 </h1>
 
 
-
+<h2 align="center">
+  Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • Sofia
+</h2>
 
 
 
