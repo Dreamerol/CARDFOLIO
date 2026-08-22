@@ -18,12 +18,6 @@
 </h1>
 
 
-<h3 align="center">
- Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • Sofia • Software Engineering • Computer Science • Algorithms • Data Structures
-</h3>
-
-
-
 
 
 <br>
@@ -45,6 +39,11 @@
 </div>
 
 
+
+
+<h3 align="center">
+ Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • Sofia • Software Engineering • Computer Science • Algorithms • Data Structures
+</h3>
 
 
 
