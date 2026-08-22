@@ -1,31 +1,15 @@
 
-
 <h1 align="center">
   🧩
   <a
     href="https://github.com/Dreamerol"
-    title="Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • Software Engineering • Algorithms & Data Structures • Software Engineering • AI Engineer • Applied Machine Learning • Data Science • Software Engineer • Backend Engineer • REST APIs • Python • C++ • Java • SQL • Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет), Sofia"
-    aria-label="Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • Software Engineering • Algorithms & Data Structures • AI Engineer • Applied Machine Learning • Data Science • Software Engineer • Backend Engineer • REST APIs • Python • C++ • Java • SQL • Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет), Sofia">
+    title="Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • Sofia • Software Engineering • Algorithms & Data Structures"
+    aria-label="Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • Sofia • Software Engineering • Algorithms & Data Structures">
     𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 • 𝗖𝗦 𝗙𝗨𝗡𝗗𝗔𝗠𝗘𝗡𝗧𝗔𝗟𝗦
   </a>
 </h1>
 
 
-
-
-
-
-
-
-<h1 align="center">
-  🧩
-  <a
-    href="https://github.com/Dreamerol"
-    title="Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • Software Engineering • AI Engineer • Applied Machine Learning • Data Science • Software Engineer • Backend Engineer • REST APIs • Python • C++ • Java • SQL • Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет), Sofia"
-    aria-label="Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • Software Engineering • AI Engineer • Applied Machine Learning • Data Science • Software Engineer • Backend Engineer • REST APIs • Python • C++ • Java • SQL • Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет), Sofia">
-    𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 • 𝗖𝗦 𝗙𝗨𝗡𝗗𝗔𝗠𝗘𝗡𝗧𝗔𝗟𝗦
-  </a>
-</h1>
 
 
 
