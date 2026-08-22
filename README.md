@@ -16,6 +16,11 @@
 
 
 
+<h2 align="center">
+  Mihaela Koseva • Sofia University • Sofia • Software Engineering • Algorithms & Data Structures
+</h2>
+
+<br>
 
 
 <div align="center">
