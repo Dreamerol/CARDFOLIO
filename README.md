@@ -144,7 +144,7 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
 
 <div align="center">
 
-# <a href="https://github.com/Dreamerol">🧩 𝗖𝗢𝗠𝗣𝗨𝗧𝗘𝗥 𝗦𝗖𝗜𝗘𝗡𝗖𝗘 • 𝗙𝗨𝗡𝗗𝗔𝗠𝗘𝗡𝗧𝗔𝗟𝗦</a>
+# <a href="https://github.com/Dreamerol">🧩 𝗖𝗢𝗠𝗣𝗨𝗧𝗘𝗥 𝗦𝗖𝗜𝗘𝗡𝗖𝗘 • 𝗙𝗢𝗨𝗡𝗗𝗔𝗧𝗜𝗢𝗡𝗦</a>
 
 # 𝗗𝗮𝘁𝗮 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲𝘀 & 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺𝘀 • 𝗢𝗢𝗣 • 𝗦𝘆𝘀𝘁𝗲𝗺𝘀 • 𝗦𝗤𝗟
 
