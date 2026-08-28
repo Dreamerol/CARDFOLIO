@@ -10,7 +10,7 @@
     href="https://github.com/Dreamerol"
     title="Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • Sofia • Software Engineering • Algorithms & Data Structures"
     aria-label="Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • Sofia • Software Engineering • Algorithms & Data Structures">
-    𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 • 𝗖𝗦 𝗙𝗨𝗡𝗗𝗔𝗠𝗘𝗡𝗧𝗔𝗟𝗦
+    𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 • 𝗖𝗢𝗠𝗣𝗨𝗧𝗘𝗥 𝗦𝗖𝗜𝗘𝗡𝗖𝗘 𝗙𝗨𝗡𝗗𝗔𝗠𝗘𝗡𝗧𝗔𝗟𝗦
   </a>
 </h1>
 
@@ -148,7 +148,7 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
 
 # 🧩 <a href="https://github.com/Dreamerol">𝗖𝗢𝗠𝗣𝗨𝗧𝗘𝗥 𝗦𝗖𝗜𝗘𝗡𝗖𝗘 • 𝗣𝗥𝗜𝗡𝗖𝗜𝗣𝗟𝗘𝗦</a>
 
-## Data Structures & Algorithms • OOP • SQL • Linux Systems
+## 
 
 </div>
 
