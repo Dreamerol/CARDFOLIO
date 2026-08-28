@@ -105,7 +105,7 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
 
 <div align="center">
 
-# ✅ <a href="https://github.com/Dreamerol/RESUME" target="_blank">𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 • 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥</a>
+# 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 • 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥
 
 ## <b>𝗙𝗠𝗜, 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 “𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶”</b></a>
 
@@ -144,9 +144,9 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
 
 <div align="center">
 
-# 🧩 <a href="https://github.com/Dreamerol">𝗖𝗢𝗠𝗣𝗨𝗧𝗘𝗥 𝗦𝗖𝗜𝗘𝗡𝗖𝗘 • 𝗣𝗥𝗜𝗡𝗖𝗜𝗣𝗟𝗘𝗦</a>
+# 🧩 <a>𝗖𝗢𝗠𝗣𝗨𝗧𝗘𝗥 𝗦𝗖𝗜𝗘𝗡𝗖𝗘 • 𝗣𝗥𝗜𝗡𝗖𝗜𝗣𝗟𝗘𝗦</a>
 
-## 
+## 𝗗𝗔𝗧𝗔 𝗦𝗧𝗥𝗨𝗖𝗧𝗨𝗥𝗘𝗦 & 𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗦 • 𝗢𝗢𝗣 • 𝗦𝗤𝗟 • 𝗟𝗜𝗡𝗨𝗫 𝗦𝗬𝗦𝗧𝗘𝗠𝗦
 
 </div>
 
