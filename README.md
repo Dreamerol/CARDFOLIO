@@ -32,7 +32,7 @@
 
 <div align="center">
 
-<a href="https://github.com/Dreamerol/PORTFOLIO">
+<a href="https://dreamerol.github.io/MIHAELA-KOSEVA-AI/">
 
   <img
     src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA-KOSEVA-CARDFOLIO.jpg"
