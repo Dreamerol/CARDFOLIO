@@ -19,7 +19,7 @@
    
 
 <h3 align="center">
-  Mihaela Koseva (Михаела Косева) • Software Engineering • Algorithms & Data Structures • OOP • Functional Programming • Python • SQL
+  Mihaela Koseva (Михаела Косева) • Software Engineering • Algorithms & Data Structures • OOP • Python • SQL
 </h3>
 
 
