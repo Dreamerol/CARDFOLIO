@@ -18,9 +18,9 @@
  
    
 
-<h4 align="center">
-  Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • Software Engineering • Algorithms & Data Structures • OOP • Functional Programming • Python • SQL
-</h4>
+<h3 align="center">
+  Mihaela Koseva (Михаела Косева) • Software Engineering • Algorithms & Data Structures • OOP • Functional Programming • Python • SQL
+</h3>
 
 
 
