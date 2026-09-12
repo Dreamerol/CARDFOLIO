@@ -5,15 +5,12 @@
 
 
 
-
-
 <h1 align="center">
   🧩
   <a
        title="Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • Sofia • Software Engineering • Algorithms & Data Structures"
     aria-label="Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • Sofia • Software Engineering • Algorithms & Data Structures">
-    𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 • 𝗖𝗦 𝗙𝗨𝗡𝗗𝗔𝗠𝗘𝗡𝗧𝗔𝗟𝗦
-  </a>
+     <a href="https://github.com/Dreamerol">𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 • 𝗖𝗦 𝗙𝗨𝗡𝗗𝗔𝗠𝗘𝗡𝗧𝗔𝗟𝗦</a>
 </h1>
 
 
