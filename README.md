@@ -18,13 +18,14 @@
  
 
 
-<h2 align="center">
+<h3 align="center">
   
   <a
        title="Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • Sofia • Software Engineering • Algorithms & Data Structures"
     aria-label="Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • Sofia • Software Engineering • Algorithms & Data Structures">
      <a href="https://github.com/Dreamerol/PORTFOLIO">𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 • 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺𝘀 & 𝗗𝗮𝘁𝗮 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲𝘀 • 𝗢𝗢𝗣 • 𝗣𝘆𝘁𝗵𝗼𝗻 • 𝗦𝗤𝗟</a>
-</h2>
+     
+</h3>
 
    
 
