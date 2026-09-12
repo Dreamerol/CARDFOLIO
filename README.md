@@ -26,7 +26,7 @@
   <a
        title="Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • Sofia • Software Engineering • Algorithms & Data Structures"
     aria-label="Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • Sofia • Software Engineering • Algorithms & Data Structures">
-     <a href="https://github.com/Dreamerol">  Mihaela Koseva • Algorithms & Data Structures • OOP • Python • SQL</a>
+     <a href="https://github.com/Dreamerol/PORTFOLIO">  Mihaela Koseva • Algorithms & Data Structures • OOP • Python • SQL</a>
 </h2>
 
    
