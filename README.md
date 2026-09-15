@@ -26,7 +26,7 @@
   <a
        title="Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • Sofia • Software Engineering • Algorithms & Data Structures"
     aria-label="Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • Sofia • Software Engineering • Algorithms & Data Structures">
-     <a href="https://github.com/Dreamerol/PORTFOLIO">Mihaela Koseva • Algorithms & Data Structures • OOP • Python • SQL</a>
+     <a href="https://github.com/Dreamerol/AI-STUDIO">Mihaela Koseva • Algorithms & Data Structures • OOP • Python • SQL</a>
      
 </h2>
 
@@ -42,7 +42,7 @@
 
 <div align="center">
 
-<a href="https://dreamerol.github.io/MIHAELA-KOSEVA-AI/">
+<a href="https://github.com/Dreamerol/AI-STUDIO">
 
   <img
     src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA-KOSEVA-CARDFOLIO.jpg"
@@ -456,7 +456,7 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
 
 
 <div align="center">
-  <a href="https://dreamerol.github.io/APPLIED-AI-ENGINEER/" target="_blank">
+  <a href="https://github.com/Dreamerol/AI-STUDIO" target="_blank">
     <img
       src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA-DREAMEROL.jpg"
       width="100%"
