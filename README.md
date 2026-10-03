@@ -42,7 +42,7 @@
 
 <div align="center">
 
-<a href="https://github.com/Dreamerol/AI-STUDIO">
+<a href="https://github.com/Dreamerol"> 
 
   <img
     src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA%20CS.png"
