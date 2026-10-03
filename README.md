@@ -260,13 +260,9 @@ https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA%20CS
 
 
 
-
-
-
 <!-- TABLE 1 -->
 
 <div align="center">
-
 <table align="center">
 <tr>
 
@@ -299,7 +295,6 @@ width="320" height="190" style="object-fit:cover;object-position:center;border-r
 
 </tr>
 </table>
-
 </div>
 
 <br>
@@ -307,7 +302,6 @@ width="320" height="190" style="object-fit:cover;object-position:center;border-r
 <!-- TABLE 2 -->
 
 <div align="center">
-
 <table align="center">
 <tr>
 
@@ -340,7 +334,6 @@ width="320" height="190" style="object-fit:cover;object-position:center;border-r
 
 </tr>
 </table>
-
 </div>
 
 <br>
@@ -348,11 +341,10 @@ width="320" height="190" style="object-fit:cover;object-position:center;border-r
 <!-- TABLE 3 -->
 
 <div align="center">
-
 <table align="center">
 <tr>
 
-<td align="center" width="360" style="padding:10px;">
+<td align="center" width="360" style="padding:10px 10px 20px 10px;">
 <a href="https://github.com/Dreamerol/PYTHON-WEB-ADVANCED">
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA%20CS%20cards.png"
 width="320" height="190" style="object-fit:cover;object-position:center;border-radius:16px;display:block;margin:0 auto;">
@@ -361,21 +353,27 @@ width="320" height="190" style="object-fit:cover;object-position:center;border-r
 <span style="font-size:24px;font-weight:800;">𝗣𝗬𝗧𝗛𝗢𝗡 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗠𝗘𝗡𝗧</span>
 </td>
 
-<td align="center" width="360" style="padding:10px;">
+<td align="center" width="360" style="padding:10px 10px 20px 10px;">
 <a href="https://github.com/Dreamerol/DATABASES-SQL">
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA%20CS%20cards.png"
-width="320" hei
+width="320" height="190" style="object-fit:cover;object-position:center;border-radius:16px;display:block;margin:0 auto;">
+</a>
+<div style="height:8px;"></div>
+<span style="font-size:24px;font-weight:800;">𝗦𝗤𝗟 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘</span>
+</td>
 
+<td align="center" width="360" style="padding:10px 10px 20px 10px;">
+<a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA%20CS%20cards.png"
+width="320" height="190" style="object-fit:cover;object-position:center;border-radius:16px;display:block;margin:0 auto;">
+</a>
+<div style="height:8px;"></div>
+<span style="font-size:24px;font-weight:800;">𝗖𝗟𝗢𝗝𝗨𝗥𝗘 𝗙𝗨𝗡𝗖𝗧𝗜𝗢𝗡𝗔𝗟</span>
+</td>
 
-
-
-
-
-
-
-
-
-
+</tr>
+</table>
+</div>
 
 
 
