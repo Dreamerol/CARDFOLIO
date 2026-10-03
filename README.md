@@ -4,42 +4,6 @@
 
 
 
-
-<h1 align="center">
-  🧩
-  <a
-       title="Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • Sofia • Software Engineering • Algorithms & Data Structures"
-    aria-label="Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • Sofia • Software Engineering • Algorithms & Data Structures">
-     <a href="https://github.com/Dreamerol">𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 • 𝗖𝗦 𝗙𝗨𝗡𝗗𝗔𝗠𝗘𝗡𝗧𝗔𝗟𝗦</a>
-</h1>
-
-
-
-
-
-
- 
-
-
-<h2 align="center">
-  
-  <a
-       title="Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • Sofia • Software Engineering • Algorithms & Data Structures"
-    aria-label="Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • Sofia • Software Engineering • Algorithms & Data Structures">
-     <a href="https://github.com/Dreamerol">Mihaela Koseva • Algorithms & Data Structures • OOP • Python • SQL</a>
-     
-</h2>
-
-   
-
-
-
-
-<br>
-
-
-
-
 <div align="center">
 
 <a href="https://github.com/Dreamerol"> 
