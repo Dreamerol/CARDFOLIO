@@ -256,6 +256,142 @@ https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA%20CS
 
 
 
+
+
+
+
+
+
+
+<!-- TABLE 1 -->
+
+<div align="center">
+
+<table align="center">
+<tr>
+
+<td align="center" width="360" style="padding:10px 10px 20px 10px;">
+<a href="https://github.com/Dreamerol/DATA-STRUCTURES-ALGORITHMS">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA%20CS%20cards.png"
+width="320" height="190" style="object-fit:cover;object-position:center;border-radius:16px;display:block;margin:0 auto;">
+</a>
+<div style="height:8px;"></div>
+<span style="font-size:24px;font-weight:800;">𝗗𝗦𝗔 & 𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗦</span>
+</td>
+
+<td align="center" width="360" style="padding:10px 10px 20px 10px;">
+<a href="https://github.com/Dreamerol/POCKER-CONSOLE-GAME">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA%20CS%20cards.png"
+width="320" height="190" style="object-fit:cover;object-position:center;border-radius:16px;display:block;margin:0 auto;">
+</a>
+<div style="height:8px;"></div>
+<span style="font-size:24px;font-weight:800;">𝗣𝗢𝗞𝗘𝗥 𝗚𝗔𝗠𝗘</span>
+</td>
+
+<td align="center" width="360" style="padding:10px 10px 20px 10px;">
+<a href="https://github.com/Dreamerol/RUMMIKUB-CONSOLE-GAME">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA%20CS%20cards.png"
+width="320" height="190" style="object-fit:cover;object-position:center;border-radius:16px;display:block;margin:0 auto;">
+</a>
+<div style="height:8px;"></div>
+<span style="font-size:24px;font-weight:800;">𝗥𝗨𝗠𝗠𝗜𝗞𝗨𝗕 𝗚𝗔𝗠𝗘</span>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<!-- TABLE 2 -->
+
+<div align="center">
+
+<table align="center">
+<tr>
+
+<td align="center" width="360" style="padding:10px 10px 20px 10px;">
+<a href="https://github.com/Dreamerol/OOP-PRINCIPLES-DESIGN">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA%20CS%20cards.png"
+width="320" height="190" style="object-fit:cover;object-position:center;border-radius:16px;display:block;margin:0 auto;">
+</a>
+<div style="height:8px;"></div>
+<span style="font-size:24px;font-weight:800;">𝗖++ 𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗜𝗡𝗚</span>
+</td>
+
+<td align="center" width="360" style="padding:10px 10px 20px 10px;">
+<a href="https://github.com/Dreamerol/OBJECT-ORIENTED-PROGRAMMING">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA%20CS%20cards.png"
+width="320" height="190" style="object-fit:cover;object-position:center;border-radius:16px;display:block;margin:0 auto;">
+</a>
+<div style="height:8px;"></div>
+<span style="font-size:24px;font-weight:800;">𝗢𝗢𝗣 𝗗𝗘𝗦𝗜𝗚𝗡</span>
+</td>
+
+<td align="center" width="360" style="padding:10px 10px 20px 10px;">
+<a href="https://github.com/Dreamerol/LINUX-PRO-TOOLKIT">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA%20CS%20cards.png"
+width="320" height="190" style="object-fit:cover;object-position:center;border-radius:16px;display:block;margin:0 auto;">
+</a>
+<div style="height:8px;"></div>
+<span style="font-size:24px;font-weight:800;">𝗟𝗜𝗡𝗨𝗫 𝗦𝗬𝗦𝗧𝗘𝗠𝗦</span>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<!-- TABLE 3 -->
+
+<div align="center">
+
+<table align="center">
+<tr>
+
+<td align="center" width="360" style="padding:10px;">
+<a href="https://github.com/Dreamerol/PYTHON-WEB-ADVANCED">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA%20CS%20cards.png"
+width="320" height="190" style="object-fit:cover;object-position:center;border-radius:16px;display:block;margin:0 auto;">
+</a>
+<div style="height:8px;"></div>
+<span style="font-size:24px;font-weight:800;">𝗣𝗬𝗧𝗛𝗢𝗡 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗠𝗘𝗡𝗧</span>
+</td>
+
+<td align="center" width="360" style="padding:10px;">
+<a href="https://github.com/Dreamerol/DATABASES-SQL">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA%20CS%20cards.png"
+width="320" hei
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div align="center">
 
 <table align="center">
