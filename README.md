@@ -245,36 +245,43 @@ https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA%20CS
 
 <!-- ROW 1 -->
 
+<table align="center" cellspacing="0" cellpadding="4">
+
 <tr>
 
-<td align="center" width="360" style="padding:10px;">
-<a href="https://github.com/Dreamerol/DATA-STRUCTURES-ALGORITHMS">
+<td align="center">
+<a href="https://github.com/Dreamerol/DATA-STRUCTURES-ALGORITHMS" target="_blank">
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA%20CS%20card777.png"
-width="320" height="220" style="object-fit:cover;object-position:center;border-radius:16px;display:block;margin:0 auto;">
+height="130"
+alt="DSA & Algorithms">
 </a>
 <div style="height:8px;"></div>
 <span style="font-size:24px;font-weight:800;">𝗗𝗦𝗔 & 𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗦</span>
 </td>
 
-<td align="center" width="360" style="padding:10px;">
-<a href="https://github.com/Dreamerol/POCKER-CONSOLE-GAME">
+<td align="center">
+<a href="https://github.com/Dreamerol/POCKER-CONSOLE-GAME" target="_blank">
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA%20CS%20card777.png"
-width="320" height="220" style="object-fit:cover;object-position:center;border-radius:16px;display:block;margin:0 auto;">
+height="130"
+alt="Poker Game">
 </a>
 <div style="height:8px;"></div>
 <span style="font-size:24px;font-weight:800;">𝗣𝗢𝗞𝗘𝗥 𝗚𝗔𝗠𝗘</span>
 </td>
 
-<td align="center" width="360" style="padding:10px;">
-<a href="https://github.com/Dreamerol/RUMMIKUB-CONSOLE-GAME">
+<td align="center">
+<a href="https://github.com/Dreamerol/RUMMIKUB-CONSOLE-GAME" target="_blank">
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA%20CS%20card777.png"
-width="320" height="220" style="object-fit:cover;object-position:center;border-radius:16px;display:block;margin:0 auto;">
+height="130"
+alt="Rummikub Game">
 </a>
 <div style="height:8px;"></div>
 <span style="font-size:24px;font-weight:800;">𝗥𝗨𝗠𝗠𝗜𝗞𝗨𝗕 𝗚𝗔𝗠𝗘</span>
 </td>
 
 </tr>
+
+</table>
 
 <!-- ROW 2 -->
 
