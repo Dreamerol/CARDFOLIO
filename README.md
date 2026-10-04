@@ -366,7 +366,7 @@ width="320" height="220" style="object-fit:cover;object-position:center;border-r
 
 
 
-<h2 align="center">⭐ Explore repos & star what you find interesting.</h2>
+<h2 align="center">⭐ Explore repos & star what you find interesting</h2>
 
 
 
