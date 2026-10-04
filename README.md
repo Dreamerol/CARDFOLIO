@@ -223,16 +223,7 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
 
 
 
-
-
 <br>
-
-
-
-
-
-
-
 
 
 
@@ -269,6 +260,7 @@ width="320" height="220" style="object-fit:cover;object-position:center;border-r
 </td>
 
 </tr>
+
 
 
 
@@ -311,6 +303,7 @@ width="320" height="220" style="object-fit:cover;object-position:center;border-r
 </td>
 
 </tr>
+
 
 
 
