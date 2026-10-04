@@ -264,11 +264,6 @@ width="320" height="220" style="object-fit:cover;object-position:center;border-r
 
 
 
-<br><br>
-
-
-
-
 <tr>
 <td colspan="3" style="height:30px;"></td>
 </tr>
@@ -306,9 +301,6 @@ width="320" height="220" style="object-fit:cover;object-position:center;border-r
 
 
 
-
-
-<br><br>
 
 
 
