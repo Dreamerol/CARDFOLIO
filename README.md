@@ -231,12 +231,6 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
 
 
 
-
-
-
-
-
-
 <div align="center">
 
 <table align="center">
@@ -251,7 +245,7 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
 width="320" height="220" style="object-fit:cover;object-position:center;border-radius:16px;display:block;margin:0 auto;">
 </a>
 
-<br>
+<div style="height:25px;"></div>
 
 <span style="font-size:24px;font-weight:800;">𝗗𝗦𝗔 & 𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗦</span>
 
@@ -263,7 +257,7 @@ width="320" height="220" style="object-fit:cover;object-position:center;border-r
 width="320" height="220" style="object-fit:cover;object-position:center;border-radius:16px;display:block;margin:0 auto;">
 </a>
 
-<br>
+<div style="height:25px;"></div>
 
 <span style="font-size:24px;font-weight:800;">𝗣𝗢𝗞𝗘𝗥 𝗚𝗔𝗠𝗘</span>
 
@@ -275,7 +269,7 @@ width="320" height="220" style="object-fit:cover;object-position:center;border-r
 width="320" height="220" style="object-fit:cover;object-position:center;border-radius:16px;display:block;margin:0 auto;">
 </a>
 
-<br>
+<div style="height:25px;"></div>
 
 <span style="font-size:24px;font-weight:800;">𝗥𝗨𝗠𝗠𝗜𝗞𝗨𝗕 𝗚𝗔𝗠𝗘</span>
 
@@ -299,7 +293,7 @@ width="320" height="220" style="object-fit:cover;object-position:center;border-r
 width="320" height="220" style="object-fit:cover;object-position:center;border-radius:16px;display:block;margin:0 auto;">
 </a>
 
-<br>
+<div style="height:25px;"></div>
 
 <span style="font-size:24px;font-weight:800;">𝗖++ 𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗜𝗡𝗚</span>
 
@@ -311,7 +305,7 @@ width="320" height="220" style="object-fit:cover;object-position:center;border-r
 width="320" height="220" style="object-fit:cover;object-position:center;border-radius:16px;display:block;margin:0 auto;">
 </a>
 
-<br>
+<div style="height:25px;"></div>
 
 <span style="font-size:24px;font-weight:800;">𝗢𝗢𝗣 𝗗𝗘𝗦𝗜𝗚𝗡</span>
 
@@ -323,7 +317,7 @@ width="320" height="220" style="object-fit:cover;object-position:center;border-r
 width="320" height="220" style="object-fit:cover;object-position:center;border-radius:16px;display:block;margin:0 auto;">
 </a>
 
-<br>
+<div style="height:25px;"></div>
 
 <span style="font-size:24px;font-weight:800;">𝗟𝗜𝗡𝗨𝗫 𝗦𝗬𝗦𝗧𝗘𝗠𝗦</span>
 
@@ -347,7 +341,7 @@ width="320" height="220" style="object-fit:cover;object-position:center;border-r
 width="320" height="220" style="object-fit:cover;object-position:center;border-radius:16px;display:block;margin:0 auto;">
 </a>
 
-<br>
+<div style="height:25px;"></div>
 
 <span style="font-size:24px;font-weight:800;">𝗣𝗬𝗧𝗛𝗢𝗡 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗠𝗘𝗡𝗧</span>
 
@@ -359,7 +353,7 @@ width="320" height="220" style="object-fit:cover;object-position:center;border-r
 width="320" height="220" style="object-fit:cover;object-position:center;border-radius:16px;display:block;margin:0 auto;">
 </a>
 
-<br>
+<div style="height:25px;"></div>
 
 <span style="font-size:24px;font-weight:800;">𝗦𝗤𝗟 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘</span>
 
@@ -371,7 +365,7 @@ width="320" height="220" style="object-fit:cover;object-position:center;border-r
 width="320" height="220" style="object-fit:cover;object-position:center;border-radius:16px;display:block;margin:0 auto;">
 </a>
 
-<br>
+<div style="height:25px;"></div>
 
 <span style="font-size:24px;font-weight:800;">𝗖𝗟𝗢𝗝𝗨𝗥𝗘 𝗙𝗨𝗡𝗖𝗧𝗜𝗢𝗡𝗔𝗟</span>
 
@@ -386,7 +380,10 @@ width="320" height="220" style="object-fit:cover;object-position:center;border-r
 
 
 
----
+
+
+
+
 
 
 
