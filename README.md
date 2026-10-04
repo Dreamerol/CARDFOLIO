@@ -408,7 +408,6 @@ alt="Rummikub Game">
 
 </tr>
 
-</table>
 
 <!-- ROW 2 -->
 
