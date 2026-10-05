@@ -240,8 +240,6 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
 <table align="center" cellspacing="0" cellpadding="2">
 <tr>
 
-
-
 <td>
 <a href="https://github.com/Dreamerol/DATA-STRUCTURES-ALGORITHMS" target="_blank">
 <img src="https://raw.githubusercontent.com/Dreamerol/CARDFOLIO/88e0a512efebcb541d66db7f78a73a784a3dd5f4/DSA.png" height="310"
@@ -249,7 +247,6 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 />
 </a>
 </td>
-
 
 
 <td>
@@ -270,11 +267,8 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 </td>
 
 
-
 </tr>
 </table>
-
-
 
 
 
@@ -304,7 +298,6 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 </td>
 
 
-
 <td>
 <a href="https://github.com/Dreamerol/PYTHON-WEB-ADVANCED" target="_blank">
 <img src="https://raw.githubusercontent.com/Dreamerol/CARDFOLIO/88e0a512efebcb541d66db7f78a73a784a3dd5f4/PYTHON-3.png" height="310"
@@ -314,20 +307,13 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 </td>
 
 
-
 </tr>
 </table>
 
 
 
-
-
-
-
-
 <table align="center" cellspacing="0" cellpadding="2">
 <tr>
-
 
 
 <td>
@@ -339,7 +325,6 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 </td>
 
 
-
 <td>
 <a href="https://github.com/Dreamerol/DATABASES-SQL" target="_blank">
 <img src="https://raw.githubusercontent.com/Dreamerol/CARDFOLIO/a186a55fa401ac67e6067829a88ee6405399927c/SQL-3.png?utm_source=chatgpt.com" height="310"
@@ -347,7 +332,6 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 />
 </a>
 </td>
-
 
 
 <td>
@@ -361,9 +345,6 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 </tr>
 </table>
-
-
-
 
 
 
