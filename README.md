@@ -259,7 +259,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 <td>
 <a href="https://github.com/Dreamerol/RUMMIKUB-CONSOLE-GAME" target="_blank">
-<img src="https://raw.githubusercontent.com/Dreamerol/CARDFOLIO/6752c82ef6b0c543be7892dd6c4db7041db19b68/RUMMIKUB-9.png" height="500"
+<img src="https://raw.githubusercontent.com/Dreamerol/CARDFOLIO/feac1c8935c017b4335bd59a33785eb77197f4fd/RUMMIKUB-9.png" height="500"
 alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia, Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
 />
 </a>
