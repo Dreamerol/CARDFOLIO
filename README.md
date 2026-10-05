@@ -324,7 +324,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 <td>
 <a href="https://github.com/Dreamerol/PYTHON-WEB-ADVANCED" target="_blank">
-<img src="https://raw.githubusercontent.com/Dreamerol/CARDFOLIO/2536551142cb63b09fb4c0aafb0c1f1bbecc1ba2/CPP-9.png" height="500"
+<img src="https://raw.githubusercontent.com/Dreamerol/CARDFOLIO/cdec6535f4ea8291c804a75d4626690d8f184e9c/PYTHON-9.png" height="500"
 alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia, Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
 />
 </a>
@@ -334,7 +334,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 <td>
 <a href="https://github.com/Dreamerol/DATABASES-SQL" target="_blank">
-<img src="https://raw.githubusercontent.com/Dreamerol/CARDFOLIO/ca5f104087477ee32dd9eb7fe3022424484230fd/OOP-9.png" height="500"
+<img src="https://raw.githubusercontent.com/Dreamerol/CARDFOLIO/cdec6535f4ea8291c804a75d4626690d8f184e9c/SQL-9.png" height="500"
 alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia, Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
 />
 </a>
@@ -344,7 +344,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 <td>
 <a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM" target="_blank">
-<img src="https://raw.githubusercontent.com/Dreamerol/CARDFOLIO/93ea3498fc9cf72af85b937b18774d3a726ae126/LINUX-9.png" height="500"
+<img src="https://raw.githubusercontent.com/Dreamerol/CARDFOLIO/cdec6535f4ea8291c804a75d4626690d8f184e9c/CLOJURE-9.png" height="500"
 alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia, Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
 />
 </a>
