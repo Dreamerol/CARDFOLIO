@@ -235,6 +235,173 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
 
 
 
+<table align="center" cellspacing="0" cellpadding="2">
+<tr>
+
+
+
+<td>
+<a href="https://github.com/Dreamerol/DATA-STRUCTURES-ALGORITHMS" target="_blank">
+<img src="https://raw.githubusercontent.com/Dreamerol/CARDFOLIO/88e0a512efebcb541d66db7f78a73a784a3dd5f4/DSA.png" height="310"
+alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia, Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
+/>
+</a>
+</td>
+
+
+
+<td>
+<a href="https://github.com/Dreamerol/POCKER-CONSOLE-GAME" target="_blank">
+<img src="https://raw.githubusercontent.com/Dreamerol/CARDFOLIO/28ab25d4de156d247d16783e7bde8913be2d7858/POKER.png" height="310"
+alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia, Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
+/>
+</a>
+</td>
+
+
+<td>
+<a href="https://github.com/Dreamerol/RUMMIKUB-CONSOLE-GAME" target="_blank">
+<img src="https://raw.githubusercontent.com/Dreamerol/CARDFOLIO/28ab25d4de156d247d16783e7bde8913be2d7858/RUMMIKUB.png" height="310"
+alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia, Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
+/>
+</a>
+</td>
+
+
+
+</tr>
+</table>
+
+
+
+
+
+<br>
+
+
+
+
+
+<table align="center" cellspacing="0" cellpadding="2">
+<tr>
+
+
+
+<td>
+<a href="https://github.com/Dreamerol/OBJECT-ORIENTED-PROGRAMMING" target="_blank">
+<img src="https://raw.githubusercontent.com/Dreamerol/CARDFOLIO/db625e7a3246fc0599bc1cbc6a5692360b83eec9/CPP.png" height="310"
+alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia, Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
+/>
+</a>
+</td>
+
+
+
+<td>
+<a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM" target="_blank">
+<img src="https://raw.githubusercontent.com/Dreamerol/CARDFOLIO/db625e7a3246fc0599bc1cbc6a5692360b83eec9/CLOJURE-3.png" height="310"
+alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, Sofia, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
+/>
+</a>
+</td>
+
+
+
+
+<td>
+<a href="https://github.com/Dreamerol/PYTHON-WEB-ADVANCED" target="_blank">
+<img src="https://raw.githubusercontent.com/Dreamerol/CARDFOLIO/88e0a512efebcb541d66db7f78a73a784a3dd5f4/PYTHON-3.png" height="310"
+alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, Sofia, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
+/>
+</a>
+</td>
+
+
+
+</tr>
+</table>
+
+
+
+
+
+<br>
+
+
+
+
+
+
+<table align="center" cellspacing="0" cellpadding="2">
+<tr>
+
+
+
+<td>
+<a href="https://github.com/Dreamerol/OOP-PRINCIPLES-DESIGN" target="_blank">
+<img src="https://raw.githubusercontent.com/Dreamerol/CARDFOLIO/44a0277127e27a84b73326a9f9c75c2d152e68ff/OOP.png" height="310"
+alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia, Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
+/>
+</a>
+</td>
+
+
+
+<td>
+<a href="https://github.com/Dreamerol/DATABASES-SQL" target="_blank">
+<img src="https://raw.githubusercontent.com/Dreamerol/CARDFOLIO/a186a55fa401ac67e6067829a88ee6405399927c/SQL-3.png?utm_source=chatgpt.com" height="310"
+alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia, Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
+/>
+</a>
+</td>
+
+
+
+<td>
+<a href="https://github.com/Dreamerol/LINUX-PRO-TOOLKIT" target="_blank">
+<img src="https://raw.githubusercontent.com/Dreamerol/CARDFOLIO/88e0a512efebcb541d66db7f78a73a784a3dd5f4/LINUX.png" height="310"
+alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia, Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
+/>
+</a>
+</td>
+
+
+</tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div align="center">
 
 <table align="center">
