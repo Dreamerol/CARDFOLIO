@@ -312,6 +312,11 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
+
+
+
+
+
 <table align="center" cellspacing="0" cellpadding="2">
 <tr>
 
@@ -327,7 +332,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 <td>
 <a href="https://github.com/Dreamerol/DATABASES-SQL" target="_blank">
-<img src="https://raw.githubusercontent.com/Dreamerol/CARDFOLIO/a186a55fa401ac67e6067829a88ee6405399927c/SQL-3.png?utm_source=chatgpt.com" height="310"
+<img src="https://raw.githubusercontent.com/Dreamerol/CARDFOLIO/f265a91ddb62bbb50731e6b8efd49351ee79be32/SQL-2.png" height="310"
 alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia, Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
 />
 </a>
