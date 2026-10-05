@@ -293,7 +293,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 <td>
 <a href="https://github.com/Dreamerol/OOP-PRINCIPLES-DESIGN" target="_blank">
-<img src="https://github.com/Dreamerol/CARDFOLIO/blob/bfbdd111bc12d5ac011c71819a3e6a25016a9c24/DSA-9.png" height="500"
+<img src="https://raw.githubusercontent.com/Dreamerol/CARDFOLIO/ca5f104087477ee32dd9eb7fe3022424484230fd/OOP-9.png" height="500"
 alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia, Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
 />
 </a>
