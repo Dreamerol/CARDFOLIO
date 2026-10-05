@@ -299,7 +299,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 <td>
 <a href="https://github.com/Dreamerol/LINUX-PRO-TOOLKIT" target="_blank">
-<img src="https://raw.githubusercontent.com/Dreamerol/CARDFOLIO/93ea3498fc9cf72af85b937b18774d3a726ae126/LINUX-9.png" hheight="320"
+<img src="https://raw.githubusercontent.com/Dreamerol/CARDFOLIO/93ea3498fc9cf72af85b937b18774d3a726ae126/LINUX-9.png" height="320"
 alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia, Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
 />
 </a>
