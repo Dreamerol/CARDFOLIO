@@ -235,120 +235,41 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
 
 
 
-<div align="center">
 
-<table align="center">
-
-<!-- ROW 1 -->
-
+<table align="center" cellspacing="0" cellpadding="2">
 <tr>
 
-<td align="center" width="360" style="padding:10px;">
-<a href="https://github.com/Dreamerol/DATA-STRUCTURES-ALGORITHMS">
-<img src="https://raw.githubusercontent.com/Dreamerol/CARDFOLIO/c5a5584ae9d65307ef1defffb1bb39101cf5dcc5/DSA-9.png?utm_source=chatgpt.com"
-width="320" height="220" style="object-fit:cover;object-position:center;border-radius:16px;display:block;margin:0 auto;">
+<td>
+<a href="https://github.com/Dreamerol/DATA-STRUCTURES-ALGORITHMS" target="_blank">
+<img src="https://raw.githubusercontent.com/Dreamerol/CARDFOLIO/c5a5584ae9d65307ef1defffb1bb39101cf5dcc5/DSA-9.png" height="310"
+alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia, Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
+/>
 </a>
 </td>
 
-<td align="center" width="360" style="padding:10px;">
-<a href="https://github.com/Dreamerol/POCKER-CONSOLE-GAME">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA%20CS%20card777.png"
-width="320" height="220" style="object-fit:cover;object-position:center;border-radius:16px;display:block;margin:0 auto;">
+
+<td>
+<a href="https://github.com/Dreamerol/POCKER-CONSOLE-GAME" target="_blank">
+<img src="https://raw.githubusercontent.com/Dreamerol/CARDFOLIO/28ab25d4de156d247d16783e7bde8913be2d7858/POKER.png" height="310"
+alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia, Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
+/>
 </a>
-<div style="height:8px;"></div>
-<span style="font-size:24px;font-weight:800;">𝗣𝗢𝗞𝗘𝗥 𝗚𝗔𝗠𝗘</span>
 </td>
 
-<td align="center" width="360" style="padding:10px;">
-<a href="https://github.com/Dreamerol/RUMMIKUB-CONSOLE-GAME">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA%20CS%20card777.png"
-width="320" height="220" style="object-fit:cover;object-position:center;border-radius:16px;display:block;margin:0 auto;">
+
+<td>
+<a href="https://github.com/Dreamerol/RUMMIKUB-CONSOLE-GAME" target="_blank">
+<img src="https://raw.githubusercontent.com/Dreamerol/CARDFOLIO/28ab25d4de156d247d16783e7bde8913be2d7858/RUMMIKUB.png" height="310"
+alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia, Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
+/>
 </a>
-<div style="height:8px;"></div>
-<span style="font-size:24px;font-weight:800;">𝗥𝗨𝗠𝗠𝗜𝗞𝗨𝗕 𝗚𝗔𝗠𝗘</span>
 </td>
+
 
 </tr>
-
-<!-- EMPTY ROW -->
-<tr>
-<td colspan="3" style="height:30px;padding:0;"></td>
-</tr>
-
-<!-- ROW 2 -->
-
-<tr>
-
-<td align="center" width="360" style="padding:10px;">
-<a href="https://github.com/Dreamerol/OOP-PRINCIPLES-DESIGN">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA%20CS%20card777.png"
-width="320" height="220" style="object-fit:cover;object-position:center;border-radius:16px;display:block;margin:0 auto;">
-</a>
-<div style="height:8px;"></div>
-<span style="font-size:24px;font-weight:800;">𝗖++ 𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗜𝗡𝗚</span>
-</td>
-
-<td align="center" width="360" style="padding:10px;">
-<a href="https://github.com/Dreamerol/OBJECT-ORIENTED-PROGRAMMING">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA%20CS%20card777.png"
-width="320" height="220" style="object-fit:cover;object-position:center;border-radius:16px;display:block;margin:0 auto;">
-</a>
-<div style="height:8px;"></div>
-<span style="font-size:24px;font-weight:800;">𝗢𝗢𝗣 𝗗𝗘𝗦𝗜𝗚𝗡</span>
-</td>
-
-<td align="center" width="360" style="padding:10px;">
-<a href="https://github.com/Dreamerol/LINUX-PRO-TOOLKIT">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA%20CS%20card777.png"
-width="320" height="220" style="object-fit:cover;object-position:center;border-radius:16px;display:block;margin:0 auto;">
-</a>
-<div style="height:8px;"></div>
-<span style="font-size:24px;font-weight:800;">𝗟𝗜𝗡𝗨𝗫 𝗦𝗬𝗦𝗧𝗘𝗠𝗦</span>
-</td>
-
-</tr>
-
-<!-- EMPTY ROW -->
-<tr>
-<td colspan="3" style="height:30px;padding:0;"></td>
-</tr>
-
-<!-- ROW 3 -->
-
-<tr>
-
-<td align="center" width="360" style="padding:10px;">
-<a href="https://github.com/Dreamerol/PYTHON-WEB-ADVANCED">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA%20CS%20card777.png"
-width="320" height="220" style="object-fit:cover;object-position:center;border-radius:16px;display:block;margin:0 auto;">
-</a>
-<div style="height:8px;"></div>
-<span style="font-size:24px;font-weight:800;">𝗣𝗬𝗧𝗛𝗢𝗡 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗠𝗘𝗡𝗧</span>
-</td>
-
-<td align="center" width="360" style="padding:10px;">
-<a href="https://github.com/Dreamerol/DATABASES-SQL">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA%20CS%20card777.png"
-width="320" height="220" style="object-fit:cover;object-position:center;border-radius:16px;display:block;margin:0 auto;">
-</a>
-<div style="height:8px;"></div>
-<span style="font-size:24px;font-weight:800;">𝗦𝗤𝗟 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘</span>
-</td>
-
-<td align="center" width="360" style="padding:10px;">
-<a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA%20CS%20card777.png"
-width="320" height="220" style="object-fit:cover;object-position:center;border-radius:16px;display:block;margin:0 auto;">
-</a>
-<div style="height:8px;"></div>
-<span style="font-size:24px;font-weight:800;">𝗖𝗟𝗢𝗝𝗨𝗥𝗘 𝗙𝗨𝗡𝗖𝗧𝗜𝗢𝗡𝗔𝗟</span>
-</td>
-
-</tr>
-
 </table>
 
-</div>
+
 
 
 
