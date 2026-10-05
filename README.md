@@ -278,7 +278,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 <tr>
 
 <td>
-<a href="https://github.com/Dreamerol/DATA-STRUCTURES-ALGORITHMS" target="_blank">
+<a href="https://github.com/Dreamerol/OOP-PRINCIPLES-DESIGN" target="_blank">
 <img src="https://github.com/Dreamerol/CARDFOLIO/blob/bfbdd111bc12d5ac011c71819a3e6a25016a9c24/DSA-9.png" height="500"
 alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia, Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
 />
@@ -287,7 +287,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 <td>
-<a href="https://github.com/Dreamerol/POCKER-CONSOLE-GAME" target="_blank">
+<a href="https://github.com/Dreamerol/OBJECT-ORIENTED-PROGRAMMING" target="_blank">
 <img src="https://raw.githubusercontent.com/Dreamerol/CARDFOLIO/096fae1747c20fabf2db2476e83177e9847513f9/POKER-9.png" height="500"
 alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia, Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
 />
@@ -296,7 +296,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 <td>
-<a href="https://github.com/Dreamerol/RUMMIKUB-CONSOLE-GAME" target="_blank">
+<a href="https://github.com/Dreamerol/LINUX-PRO-TOOLKIT" target="_blank">
 <img src="https://raw.githubusercontent.com/Dreamerol/CARDFOLIO/feac1c8935c017b4335bd59a33785eb77197f4fd/RUMMIKUB-9.png" height="500"
 alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia, Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
 />
