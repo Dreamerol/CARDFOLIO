@@ -152,7 +152,7 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
 
 
 
-<br><br>
+<br><br><br>
 
 
 
@@ -202,8 +202,13 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
 
 
 
-<br>
-<br>
+
+
+
+
+<br><br><br>
+
+
 
 
 
@@ -290,7 +295,6 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 </td>
 
 
-
 <td>
 <a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM" target="_blank">
 <img src="https://raw.githubusercontent.com/Dreamerol/CARDFOLIO/db625e7a3246fc0599bc1cbc6a5692360b83eec9/CLOJURE-3.png" height="310"
@@ -298,7 +302,6 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 />
 </a>
 </td>
-
 
 
 
@@ -367,24 +370,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <br><br><br>
-
 
 
 
