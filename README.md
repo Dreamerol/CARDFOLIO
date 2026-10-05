@@ -241,7 +241,7 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
 
 <td>
 <a href="https://github.com/Dreamerol/DATA-STRUCTURES-ALGORITHMS" target="_blank">
-<img src="https://raw.githubusercontent.com/Dreamerol/CARDFOLIO/c5a5584ae9d65307ef1defffb1bb39101cf5dcc5/DSA-9.png" height="400"
+<img src="https://raw.githubusercontent.com/Dreamerol/CARDFOLIO/c5a5584ae9d65307ef1defffb1bb39101cf5dcc5/DSA-9.png" height="500"
 alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia, Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
 />
 </a>
