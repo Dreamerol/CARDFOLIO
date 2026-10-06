@@ -371,37 +371,6 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
-
-<td>
-<a href="https://github.com/Dreamerol/OBJECT-ORIENTED-PROGRAMMING" target="_blank">
-<img src="https://raw.githubusercontent.com/Dreamerol/CARDFOLIO/ec81f163effe8f322e2a37dcd86d96de4d6b1abe/cpp-10.png" height="310"
-alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia, Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
-/>
-</a>
-</td>
-
-
-<td>
-<a href="https://github.com/Dreamerol/OBJECT-ORIENTED-PROGRAMMING" target="_blank">
-<img src="https://raw.githubusercontent.com/Dreamerol/CARDFOLIO/ec81f163effe8f322e2a37dcd86d96de4d6b1abe/cpp-10.png" height="310"
-alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia, Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
-/>
-</a>
-</td>
-
-
-
-<td>
-<a href="https://github.com/Dreamerol/OBJECT-ORIENTED-PROGRAMMING" target="_blank">
-<img src="https://raw.githubusercontent.com/Dreamerol/CARDFOLIO/ec81f163effe8f322e2a37dcd86d96de4d6b1abe/cpp-10.png" height="310"
-alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia, Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
-/>
-</a>
-</td>
-
-
-
-
 <br><br><br>
 
 
