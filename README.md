@@ -280,6 +280,37 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 <tr>
 
 
+
+
+
+
+
+
+
+
+
+
+<td>
+<a href="https://github.com/Dreamerol/OBJECT-ORIENTED-PROGRAMMING" target="_blank">
+<img src="https://raw.githubusercontent.com/Dreamerol/CARDFOLIO/ec81f163effe8f322e2a37dcd86d96de4d6b1abe/cpp-10.png" height="310"
+alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia, Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
+/>
+</a>
+</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <td>
 <a href="https://github.com/Dreamerol/OBJECT-ORIENTED-PROGRAMMING" target="_blank">
 <img src="https://raw.githubusercontent.com/Dreamerol/CARDFOLIO/2536551142cb63b09fb4c0aafb0c1f1bbecc1ba2/CPP-9.png" height="310"
