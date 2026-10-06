@@ -226,20 +226,10 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
 
 
 
+
+
+
 <br>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -253,7 +243,7 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
 
 <td>
 <a href="https://github.com/Dreamerol/DATA-STRUCTURES-ALGORITHMS" target="_blank">
-<img src="https://raw.githubusercontent.com/Dreamerol/CARDFOLIO/b5d05c66f7cea220abba84a2e34a709ced72769b/DSA-7.png" height="310"
+<img src="https://github.com/Dreamerol/CARDFOLIO/raw/210f53b9ce11cfc593c01b5e66aed0c17ff10dc2/DSA-11.png" height="310"
 alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia, Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
 />
 </a>
@@ -262,7 +252,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 <td>
 <a href="https://github.com/Dreamerol/POCKER-CONSOLE-GAME" target="_blank">
-<img src="https://raw.githubusercontent.com/Dreamerol/CARDFOLIO/096fae1747c20fabf2db2476e83177e9847513f9/POKER-9.png" height="310"
+<img src="https://github.com/Dreamerol/CARDFOLIO/raw/210f53b9ce11cfc593c01b5e66aed0c17ff10dc2/POKER-11.png" height="310"
 alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia, Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
 />
 </a>
@@ -271,7 +261,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 <td>
 <a href="https://github.com/Dreamerol/RUMMIKUB-CONSOLE-GAME" target="_blank">
-<img src="https://raw.githubusercontent.com/Dreamerol/CARDFOLIO/feac1c8935c017b4335bd59a33785eb77197f4fd/RUMMIKUB-9.png" height="310"
+<img src="https://github.com/Dreamerol/CARDFOLIO/raw/210f53b9ce11cfc593c01b5e66aed0c17ff10dc2/RUMMIKUB-11.png" height="310"
 alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia, Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
 />
 </a>
