@@ -290,9 +290,11 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
+
+
 <td>
 <a href="https://github.com/Dreamerol/OBJECT-ORIENTED-PROGRAMMING" target="_blank">
-<img src="https://raw.githubusercontent.com/Dreamerol/CARDFOLIO/ec81f163effe8f322e2a37dcd86d96de4d6b1abe/cpp-10.png" height="310"
+<img src="https://raw.githubusercontent.com/Dreamerol/CARDFOLIO/2536551142cb63b09fb4c0aafb0c1f1bbecc1ba2/CPP-9.png" height="310"
 alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia, Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
 />
 </a>
@@ -300,15 +302,9 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
-
-
-
-
-
-
 <td>
-<a href="https://github.com/Dreamerol/OBJECT-ORIENTED-PROGRAMMING" target="_blank">
-<img src="https://raw.githubusercontent.com/Dreamerol/CARDFOLIO/ec81f163effe8f322e2a37dcd86d96de4d6b1abe/cpp-10.png" height="310"
+<a href="https://github.com/Dreamerol/OOP-PRINCIPLES-DESIGN" target="_blank">
+<img src="https://raw.githubusercontent.com/Dreamerol/CARDFOLIO/ca5f104087477ee32dd9eb7fe3022424484230fd/OOP-9.png" height="310"
 alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia, Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
 />
 </a>
@@ -316,21 +312,13 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
-
-
-
 <td>
-<a href="https://github.com/Dreamerol/OBJECT-ORIENTED-PROGRAMMING" target="_blank">
-<img src="https://raw.githubusercontent.com/Dreamerol/CARDFOLIO/ec81f163effe8f322e2a37dcd86d96de4d6b1abe/cpp-10.png" height="310"
+<a href="https://github.com/Dreamerol/LINUX-PRO-TOOLKIT" target="_blank">
+<img src="https://raw.githubusercontent.com/Dreamerol/CARDFOLIO/93ea3498fc9cf72af85b937b18774d3a726ae126/LINUX-9.png" height="310"
 alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia, Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
 />
 </a>
 </td>
-
-
-
-
-
 
 
 
