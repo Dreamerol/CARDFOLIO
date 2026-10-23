@@ -38,7 +38,7 @@
 
 <div align="center">
 
-<a href="https://github.com/Dreamerol/CARDFOLIO">
+<a href="https://dreamerol.github.io/MIHAELA-KOSEVA-AI/">
 
 <img
 src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECH%20STACK-mihaela%20koseva-%20AI.png"
